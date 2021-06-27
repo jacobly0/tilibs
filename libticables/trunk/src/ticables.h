@@ -184,6 +184,7 @@ typedef enum
 	CABLE_VARIANT_TI84PCE,            /* CABLE_FAMILY_USB_TI8X */
 	CABLE_VARIANT_TI83PCE,            /* CABLE_FAMILY_USB_TI8X */
 	CABLE_VARIANT_TI82A,              /* CABLE_FAMILY_USB_TI8X */
+	CABLE_VARIANT_TI82AEP,            /* CABLE_FAMILY_USB_TI8X */
 	CABLE_VARIANT_TI89TM,             /* CABLE_FAMILY_USB_TI9X */
 // For Nspire Clickpad / Touchpad / CM-C / CX I calculators, CAS vs. non-CAS is all that we can hope to detect at the USB level.
 // That's not even reliable, e.g. some OS versions for the Nspire Clickpad CAS fail to present them as CAS.
